@@ -1,7 +1,9 @@
 # stg
-Subnetting Tests Generator - stg
+##Subnetting Tests Generator - stg
+---
+Hello!
 
-stg is a simple CLI Subnetting Tests Generator written in C programming language. This software is targeted towards networking students and professionals to increase and train their subnetting skills.
+*stg* is a simple CLI Subnetting Tests Generator written in C programming language. This software is targeted towards networking students and professionals to increase and train their subnetting skills.
 
 WARNING: I'am just a hobby programmer with mediocre programming skills, so the source code is pretty terrible ;-)
 
