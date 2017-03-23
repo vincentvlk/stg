@@ -1,5 +1,5 @@
 # stg
-##Subnetting Tests Generator - stg
+Subnetting Tests Generator - stg
 ---
 Hello Friends!
 
